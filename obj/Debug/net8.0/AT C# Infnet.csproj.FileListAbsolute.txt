@@ -1,0 +1,14 @@
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\bin\Debug\net8.0\AT C# Infnet.exe
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\bin\Debug\net8.0\AT C# Infnet.deps.json
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\bin\Debug\net8.0\AT C# Infnet.runtimeconfig.json
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\bin\Debug\net8.0\AT C# Infnet.dll
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\bin\Debug\net8.0\AT C# Infnet.pdb
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\AT C# Infnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\AT C# Infnet.AssemblyInfoInputs.cache
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\AT C# Infnet.AssemblyInfo.cs
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\AT C# Infnet.csproj.CoreCompileInputs.cache
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\AT C# Infnet.dll
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\refint\AT C# Infnet.dll
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\AT C# Infnet.pdb
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\AT C# Infnet.genruntimeconfig.cache
+C:\Users\igora\source\repos\AT C# Infnet\AT C# Infnet\obj\Debug\net8.0\ref\AT C# Infnet.dll
