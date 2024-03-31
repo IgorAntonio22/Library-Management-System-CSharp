@@ -1,4 +1,4 @@
-# AT 5 - Sistema de Gerenciamento de Biblioteca
+# Sistema de Gerenciamento de Biblioteca
 
 Crie uma **classe abstrata** chamada "ItemBiblioteca" que representará um item genérico de biblioteca. Essa classe deve conter os seguintes atributos: título, autor e ano de publicação. Além disso, ela deve ter os seguintes métodos abstratos: "emprestar()", "devolver()" e "exibirInformacoes()".
 
