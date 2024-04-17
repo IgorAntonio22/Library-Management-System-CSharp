@@ -1,3 +1,5 @@
+[PT-BR README VERSION](https://github.com/IgorAntonio22/Library-Management-System-CSharp/blob/master/README-PTBR.md)
+
 # Library Management System
 
 Create an abstract class called "LibraryItem" that represents a generic library item. This class should contain the following attributes: title, author, and publication year. Additionally, it should have the following abstract methods: "borrow()", "return()", and "displayInformation()".
